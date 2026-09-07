@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://krzysiek2115op.github.io/kredyt-kompas-demo/sitemap.xml
